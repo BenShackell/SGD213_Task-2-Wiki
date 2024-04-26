@@ -7,8 +7,6 @@ The handover date for the project is the 31/05/2024
 
 ## Table of Contents
 
-These are the two main areas of the assessment. Make a change!
-
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](Proposal/index.md)
 * [Architecture](Architecture/index.md)

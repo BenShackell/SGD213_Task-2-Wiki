@@ -1,13 +1,9 @@
 # SGD213 Client Requirements Specification 
 
-Welcome! If you don't know what you are doing here, jump over to the [Task 2](Task2.md) page for help.
-
-Delete out all of the useless stuff in your Wiki whenever you like (eg. the Old Structure stuff below). Don't delete important stuff though!
-
 ## Introduction
 This wiki discusses the client requirements for the <PROJECT_NAME> project.
 This project is being completed by <TEAM_NAME> for <CLIENT_NAME>.
-The handover date for the project is the XXth of YY. Add something
+The handover date for the project is the 31/05/2024
 
 ## Table of Contents
 

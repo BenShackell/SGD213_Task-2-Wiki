@@ -16,8 +16,10 @@ Players cooperate in teams of 2 to overcome the other teams in an arena-style, t
 After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
 
 ### Begin Date
+18/04/2024
 
 ### End Date
+31/05/2024
 
 ### Justification
 Read the design justification [here](project_justification.md).

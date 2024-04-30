@@ -5,7 +5,7 @@ This wiki discusses the client requirements for the <PROJECT_NAME> project.
 This project is being completed by <TEAM_NAME> for <CLIENT_NAME>.
 The handover date for the project is the 31/05/2024
 
-## Table of Contents
+## Table of Contents 
 
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](Proposal/index.md)

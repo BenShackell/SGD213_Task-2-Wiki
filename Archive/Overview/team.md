@@ -12,7 +12,7 @@ Email - bjl040@student.usc.edu.au
 Discord - belindalourey 
 Position - Design - Programming ()- 
 
-Tyrell Langdon
+Tyrell Fraser-Langdon
 email - tpf004@student.usc.edu.au
 Discord - tfras71 
 Position - Programming ()- 

@@ -1,8 +1,8 @@
 # SGD213 Client Requirements Specification 
 
 ## Introduction
-This wiki discusses the client requirements for the <PROJECT_NAME> project.
-This project is being completed by <TEAM_NAME> for <CLIENT_NAME>.
+This wiki discusses the client requirements for the <Donuts, Daggers & Dragons> project.
+This project is being completed by <Crow Studio> for <Mimtendo>.
 The handover date for the project is the 31/05/2024
 
 ## Table of Contents 

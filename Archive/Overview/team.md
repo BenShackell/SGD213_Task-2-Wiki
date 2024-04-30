@@ -7,7 +7,7 @@ Email - bjs065@student.usc.edu.au
 Discord - mr_random
 Position - Team Leader, Programming (Player animation & collisions, jumping, ducking wall collisions)- 
 
-Belinda Lourey 
+Belinda Lourey - 1155080
 Email - bjl040@student.usc.edu.au
 Discord - belindalourey 
 Position - Design - Programming (Inputs, walking/running, jumping off walls, health)- 

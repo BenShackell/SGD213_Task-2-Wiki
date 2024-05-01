@@ -9,4 +9,3 @@ This section of the wiki discusses provides an overview of the requirements of t
 * [High Concept](concept.md)
 * [Target Audience](audience.md)
 * [Desired Learning Outcomes](outcomes.md)
-* [Game Loops](loops.md)

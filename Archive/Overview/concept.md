@@ -12,4 +12,6 @@ Player will be able to:
 * Slide down walls
 * Defeat enemies
 
-To complete a level, the player must collect the missing space ship parts located in each level
+## Gameplay Loop
+
+The main gameplay loop is to collect the missing space ship parts located in each level. Once the play has found them they will move to the next level. Each level will be different and requires them to parkour their way across the levels while defeating enemies along the way.

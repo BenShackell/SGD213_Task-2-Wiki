@@ -11,9 +11,9 @@ Platformer, Adventure
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
+Players will play as a small kid who is secretly an alien.
+They will need to complete lots of platform puzzles and defeat enemies along their journey.
+The main goal is to explore the levels and make it back to space. The goal of each level is to collet the missing spaceship parts.
 
 ### Begin Date
 18/04/2024
@@ -33,11 +33,10 @@ Read the design justification [here](project_justification.md).
 [//]: # (What are the requirements of the finished project?)
 * Needs the product in 5 weeks.
 * Gameplay should be fast-paced
-* Rounds should be short
 * Should be quick to restart
 * Feedback is a major point
 * People should be drawn to it by it's appearance
-    * Needs a catchy name
+* Needs a catchy name
 
 ### Expectations
 [//]: # (What are the client's expectations?)
@@ -47,13 +46,13 @@ Read the design justification [here](project_justification.md).
 * Quality transparent project management (add the client)
 * Does **not** require audio
 * Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+* Can use basic geometry
+* Should still look nice using colour palettes
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
 * UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* Programing the player, levels and enemies will be important, but since we shouldn't spend time on art, will use standard asset or free assets
 
 ---
 

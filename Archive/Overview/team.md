@@ -2,7 +2,7 @@ Crow Studio
 
 Crow Studio is made up of 3 people, Contact details and positions
 
-Ben Shackell
+Ben Shackell - 1163742
 Email - bjs065@student.usc.edu.au
 Discord - mr_random
 Position - Team Leader, Programming (Player animation & collisions, jumping, ducking wall collisions)- 

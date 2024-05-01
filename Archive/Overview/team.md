@@ -12,7 +12,7 @@ Email - bjl040@student.usc.edu.au
 Discord - belindalourey 
 Position - Design - Programming (Inputs, walking/running, jumping off walls, health)- 
 
-Tyrell Fraser-Langdon
+Tyrell Fraser-Langdon - 1169768
 email - tpf004@student.usc.edu.au
 Discord - tfras71 
 Position - Programming (Sliding down walls, items, firing projectiles, enemies)- 

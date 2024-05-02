@@ -12,7 +12,7 @@ Platformer, Adventure
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
 Players will play as a small kid who is secretly an alien.
-They will need to complete lots of platform puzzles and defeat enemies along their journey.
+They will need to complete lots of platform puzzles and defeat enemies by throwing daggers at them along their journey.
 The main goal is to explore the levels and make it back to space. The goal of each level is to collet the missing spaceship parts.
 
 ### Begin Date

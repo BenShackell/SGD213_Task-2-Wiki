@@ -10,8 +10,11 @@ Player will be able to:
 * Walk
 * Jump of walls
 * Slide down walls
+* Shooting daggers
 * Defeat enemies
 
 ## Gameplay Loop
 
-The main gameplay loop is to collect the missing space ship parts located in each level. Once the play has found them they will move to the next level. Each level will be different and requires them to parkour their way across the levels while defeating enemies along the way.
+The main gameplay loop is to collect the missing space ship parts located in each level, and defeating enemies that are in the way.
+Once the player has found them they will move to the next level.
+Each level will be different and requires them to parkour their way across the levels while defeating enemies along the way.

@@ -12,6 +12,7 @@ Player will be able to:
 * Slide down walls
 * Shooting daggers
 * Defeat enemies
+* Pick up donuts to heal
 
 ## Gameplay Loop
 

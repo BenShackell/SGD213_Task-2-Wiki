@@ -10,9 +10,9 @@ Player will be able to:
 * Walk
 * Jump of walls
 * Slide down walls
-* Shooting daggers
+* Shooting 
 * Defeat enemies
-* Pick up donuts to heal
+* Pick ups
 
 ## Gameplay Loop
 

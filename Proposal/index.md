@@ -11,9 +11,10 @@ Platformer, Adventure
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-Players will play as a small kid who is secretly an alien.
-They will need to complete lots of platform puzzles and defeat enemies by throwing daggers at them along their journey.
-The main goal is to explore the levels and make it back to space. The goal of each level is to collet the missing spaceship parts.
+Players will enjoy the fast passed visuals and nostalgia of a 2d side scrolling game called Kenny the Kid.
+The main character is a small kid. They will be running, jumping and will need to defeat enemies by throwing fire balls at them along their journey.
+The main goal is to get the key after defeating the boss enemy. Players will explore the levels, defeat enemies, try to stay alive. 
+
 
 ### Begin Date
 18/04/2024

@@ -4,7 +4,7 @@
 
 We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
 
-Time constraints - Time needs to be managed correctly so we can meet all the needs of our clients’ requests. The deadline for this project is Tuesday the 28th of May 2024.
+Time constraints - Time needs to be managed correctly so we can meet all the needs of our clients’ requests. The deadline for this project is Friday 31st of May 2024.
 
 Budget constraints - can affect the scope and the quality of the game. The agreement between the team and client for what deliverables and in amount of time for $ quoted and agreed price.
 

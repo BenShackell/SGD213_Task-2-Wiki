@@ -12,6 +12,7 @@ The client said:
 > Learn more about Markdown at [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
 
 Communication 1
+
 Hello Olexiy 
 
 Thank you for choosing Crow Studio, we look forward to working with you. We have made a list of what you originally requested.

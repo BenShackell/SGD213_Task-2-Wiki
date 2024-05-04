@@ -2,7 +2,7 @@
 
 ## The Main Concept
 
-A Kid from out of space falls from space and lands on a mysterious planet.
+Kenny the kid will be a side scrolling game.
 Player will be able to:
 * Jump
 * Crouch
@@ -16,6 +16,6 @@ Player will be able to:
 
 ## Gameplay Loop
 
-The main gameplay loop is to collect the missing space ship parts located in each level, and defeating enemies that are in the way.
-Once the player has found them they will move to the next level.
-Each level will be different and requires them to parkour their way across the levels while defeating enemies along the way.
+The main gameplay loop is to fight his way through the levels defeating enemies that are in the way, defeat the boss enemy to collect the Key.
+Once the player has found all the keys he will move to the next level.
+Each level will be different and requires them to parkour their way through the levels.

@@ -98,3 +98,5 @@ Work will be completed to fit the provided Statement of Works, if the team wish 
 | Ben Shackell | 16-04-23 | ________ |
 | Tyrell Fraser-Langdon | 16-04-23 | ________ |
 | Belinda Lourey | 16-04-23 | ________ |
+
+![Crow Studio Logo](https://github.com/BenShackell/SGD213_Task-2-Wiki/assets/132724681/168be661-a0ee-4887-9715-35aa6d347da1)

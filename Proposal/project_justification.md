@@ -28,15 +28,15 @@ feel free to use placeholder art in the meantime.
 
 No sound is required.
 
-*We have been calling your game Kenny the Kid, what did you want to call your game?
+* We have been calling your game Kenny the Kid, what did you want to call your game?
 
 I also have not decided on the name, so placeholder title is perfectly fine!
 
-*What is the age range?
+* What is the age range?
 
 Round 25-34 years old
 
-*How fast should the player/enemies be?
+* How fast should the player/enemies be?
 
 Not sure, this will need to be play tested
 

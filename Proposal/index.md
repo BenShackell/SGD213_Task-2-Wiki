@@ -68,6 +68,7 @@ Read the design justification [here](project_justification.md).
 
 [//]: # (### Schedule of Rates)
 [//]: # (This is where you would list your hourly rates and time estimations)
+## Schedule of Rates
 Crow Studio will be on a tight time frame and cannot work past the completion date.
 We will allocate 3 programmers to the game at a rate of $40 per hour. 
 Each programmer will be working on the game for 10 hours per week. 

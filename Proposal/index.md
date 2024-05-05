@@ -91,11 +91,11 @@ Work will be completed to fit the provided Statement of Works, if the team wish 
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| Mimitendo | 16-04-23 | ________ |
+| Mimitendo | 16-04-23 | Olexiy |
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
 | Ben Shackell | 16-04-23 | ________ |
-| Tyrell Fraser-Langdon | 16-04-23 | ________ |
+| Tyrell Fraser-Langdon | 16-04-23 | Tyrell |
 | Belinda Lourey | 16-04-23 | ________ |
 

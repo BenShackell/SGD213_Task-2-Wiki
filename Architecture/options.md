@@ -1,17 +1,5 @@
 # Architecture Options
 
-**Rigidbody directly as an engine.**
-
-**Components that implement IEngine**
-
-You should consider 3 different architecture options in here.
-
-You **don't** need UML in here.
-
-You should also justify your thinking.
-
-Hot tip: use our text book for guidance.
-
 ## Rigidbody directly as an engine.
 Fill this with information.
 
@@ -41,5 +29,16 @@ Fill with information
 
 -When a new weapon is needed, you just ask the WeaponManager to equip it
 
-## Inheritance from other objects?
-Fill with information
+## Events and Delegates
+
+-allows for the decoupling of components
+
+-use events and delegates to create a system where components can communicate without direct references to each other
+
+-Can simplify debugging by providing clear points of interaction between components
+
+-Event system is integrated with MonoBehaviour
+
+## Justification 
+
+However looking back, this project is for a not-as-experienced individual, so we are choosing to use the Rigidbody method. This is fairly simple and can be easily picked up if the client has any problems or wants to change some code around themselves. Not only this but Unity offers a lot of advantages when using Rigidbody, good physics simulations, collision detection, gravity and forces, integration with Unity physics, dynamic movement, interactivity and realistic animations. Although I have listed a lot of pros, we may not use them all to their maximum capabilities, again we want to keep things simple and basic in case the client wants to poke around with the code themselves. We could go in depth but that was not included in the contract so, instead of making hard-to-learn code and the client wasting hours learning what we did, we are simply making it easier for them or future use. 

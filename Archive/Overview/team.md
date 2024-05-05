@@ -1,6 +1,6 @@
-Crow Studio
+## Crow Studio
 
-Crow Studio is made up of 3 people, Contact details and positions
+**Crow Studio is made up of 3 people, Contact details and positions**
 
 Ben Shackell - 1163742
 Email - bjs065@student.usc.edu.au

@@ -11,7 +11,7 @@ The client said:
 > Did you know that?
 > Learn more about Markdown at [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
 
-Communication 1
+## Communication 1
 
 Hello Olexiy 
 
@@ -34,7 +34,7 @@ will you need sound?
 We have been calling your game Kenny the Kid, what did you want to call your game?
 
 
-Reply communication 1
+## Reply communication 1
 
 Hi Belinda,
 
@@ -45,8 +45,29 @@ I am not able to provide testing art at this time, so feel free to use placehold
 Looking forward to the project,
 Olexiy.
 
+## Communication 2
 
-Communication 3
+Hello Olexiy 
+
+What would you like the target audience to be for,
+How fast do you want the enemies and how fast should the player be running/walking at,
+
+deadline will be 31/05/2024
+
+looking forward to your response,
+
+Ben Shackell
+
+## Reply Communication 2
+
+Hi Ben,
+
+The target audience would be classic platformer players, likely in 25-34 range.
+The entity speeds would be something I'll playtest and iterate on, so feel free to use placeholder values for now as I'll be able to change them in Editor later!
+
+Olexiy.
+
+## Communication 3
 
 Good evening Olexiy, this is Tyrell from Crow Studio
 
@@ -168,7 +189,7 @@ tpf004@student.usc.edu.au
 bjl040@student.usc.edu.au
 bjs065@student.usc.edu.au
 
-Reply Communication 3
+## Reply Communication 3
 
 Evening Tyrell,
 
